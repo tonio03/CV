@@ -13,11 +13,11 @@ Python
 Git
 
 ### systeme
-windows: Administration et maintenance
+- windows: Administration et maintenance
 - Linux
-Android
-MD5
-Virtualisation
+- Android
+- MD5
+-Virtualisation
 Virtualbox
 AWS
 Docker
