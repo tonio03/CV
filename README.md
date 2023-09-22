@@ -5,12 +5,12 @@ J'ai des compétences en SISR
 ### Gestion de projet
 
 ### Developpement
-SQL
-HTML
-CSS
-javascript
-Python
-Git
+- SQL
+- HTML
+- CSS
+- javascript
+- Python
+- Git
 
 ### systeme
 - windows: Administration et maintenance
@@ -18,33 +18,33 @@ Git
 - Android
 - MD5
 -Virtualisation
-Virtualbox
-AWS
-Docker
+- Virtualbox
+- AWS
+- Docker
 
 ### Réseau
-Cisco Packet Tracer
-Cisco Networking Essentials
-Routage
-DNS
-DHCP
-ARP
-VoIP/ / Téléphonie sur IP
+- Cisco Packet Tracer
+- Cisco Networking Essentials
+- Routage
+- DNS
+- DHCP
+- ARP
+- VoIP/ / Téléphonie sur IP
 
 ### Cybersecurité
-Rootme
-Kali
-Systèmes embarqués
-Arduino
-Economie Droit Management
-RGPD
+- Rootme
+- Kali
+- Systèmes embarqués
+- Arduino
+- Economie Droit Management
+- RGPD
 
 ### Les agents économiques
-Autre
-Illustrator
-Management Unité commerciale
-Tricot
-Charpente et construction de structures en bois
+- Autre
+- Illustrator
+- Management Unité commerciale
+- Tricot
+- Charpente et construction de structures en bois
 
 ### Langues
-Anglais Niveau B2
+- Anglais Niveau B2
